@@ -1,0 +1,17 @@
+﻿prime,target,condition,correctAns
+She does not like apples,She does not like apples,repetition_related,right
+She does not like apples,She not does like apples,repetition_unrelated,left
+She does not like apples,She not does like apples,transposition_related,right
+She does not like apples,She like does apples not,transposition_unrelated,left
+They have finished the work,They have finished the work,repetition_related,right
+They have finished the work,They finished have the work,repetition_unrelated,left
+They have finished the work,They finished have the work,transposition_related,right
+They have finished the work,They work the have finished,transposition_unrelated,left
+The boy can read fast,The boy can read fast,repetition_related,right
+The boy can read fast,The read can boy fast,repetition_unrelated,left
+The boy can read fast,The boy can read fast,transposition_related,right
+The boy can read fast,The read can boy fast,transposition_unrelated,left
+The dog is barking loudly,The dog is barking loudly,repetition_related,right
+The dog is barking loudly,The loudly is barking dog,repetition_unrelated,left
+The dog is barking loudly,The dog barking is loudly,transposition_related,right
+The dog is barking loudly,The barking dog loudly is,transposition_unrelated,left
